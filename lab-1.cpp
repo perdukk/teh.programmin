@@ -13,7 +13,7 @@ struct faculty
             
 int main()
             {
-                cout << " To add the data, enter 0;\n to add to the top of the list, enter 1;\n to add to the end of the list, enter 2;\n to delete an item, enter 3;\n to display a list of data, enter 4:\n to add befor or after an item, enter 4;" << 
+                cout << " To add the data, enter 0;\n to add to the top of the list, enter 1;\n to add to the end of the list, enter 2;\n to delete an item, enter 3;\n to display a list of data, enter 4:\n to add befor or after an item, enter 4;"; 
                 vector <faculty> f;
                 faculty F;
                 int i;
@@ -47,7 +47,7 @@ int main()
 
                    /* case 3: 
                     {
-                        не доделано; я в процессе.....
+                        дальше я бессильна........ 
                     }*/
                 }
              }
